@@ -61,5 +61,5 @@ plugins:
  - jekyll-seo-tag
  
 # _config.yml
-minima:
+# minima:
   skin: dark
